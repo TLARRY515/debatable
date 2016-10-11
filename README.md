@@ -4,18 +4,18 @@
 A suite of analytic and visual features to examine the language used in the 2016 presidential debates
 
 # aims
-The primary aim of this mini-project is to create a scalable set of analytical methods to quickly visualize differences in candidates' language. Although the project is public, I expect many of the initial members, including myself, will have varying degrees of experience with coding and varying comfortability in working in coding teams. For at least the first few of us, this will be undertaken as a learning process; any outcome beyond this experience (such as an infographic?) will be added bonus.
+The primary aim of this mini-project is to create a scalable set of analytical methods to quickly visualize differences in candidates' language. Many of the initial members, including myself, will have varying degrees of experience with coding and working in coding teams. For that reason, this will be undertaken primarily as a learning process; any outcome beyond this experience will be added bonus. Attainable results could entail a shareable infographic -- more ambitious estimates might look to answer larger political questions or make predictions.
 
 # approach
-Both the data set and the code required for this project are relatively small. Still, it will be good practice to break up functionality by team members based on their skills and be mindful of the reusability of this code for future debates and conversations more generally in the future. My first set of questions for the debate include the following:
+Both the data set and the code required for this project are relatively small. Still, it will be good practice to break up functionality by team members based on their skills and be mindful of code reusability. My first set of questions for the debate include the following:
 
 1. How do the vocabularies of each candidate compare?
 2. Who speaks more? Who interrupts more?
-3. What is being repeated by each candidate? On what issues do they tend to focus?
+3. On what issues do they tend to focus?
 4. Do elements of their responses match elements of the questions?
-5. Do differences in results from each of these categories correlate with differences in the polls?
+5. How do facets of our analysis correlate with trends in poll results following each debate?
 
-Undoubtedly, we will come up with more questions to explore as we get to work, and I invite every member to explore their own questions and contribute to our working hypotheses.
+Undoubtedly, we will come up with more questions to explore, but these are a few to use as starting points.
 
 # functions
 First, it will be important to organize the responses by candidate and eliminate articles (a, an, the)
