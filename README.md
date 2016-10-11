@@ -1,10 +1,10 @@
 # debatable
 "It's just words, folks, just words"
 
-A suite of analytic and visual features to examine the language used in the 2016 presidential debates
+Examining the language used in the 2016 presidential debates through data analysis and visualization
 
 # aims
-The primary aim of this mini-project is to create a scalable set of analytical methods to quickly visualize differences in candidates' language. It is likely that we will have varying degrees of experience with coding and working in coding teams. For that reason, this will be undertaken primarily as a learning process; any outcome beyond the experience will be an added bonus. Attainable results could entail a shareable infographic -- more ambitious estimates might look to answer larger political questions or make predictions.
+The primary aim of this mini-project is to create a scalable set of analytical methods to quickly visualize differences in candidates' language. It is likely that we will have varying degrees of experience with coding and working in coding teams. For that reason, this will be undertaken primarily as a learning process; any outcome beyond the experience will be an added bonus. Attainable results could entail a shareable infographic -- more ambitious estimates might look to answer larger political questions or make election predictions.
 
 # approach
 Both the initial data set and the code required for this project are relatively small. Still, it will be good practice to break up functionality by team members based on their skills and be mindful of code reusability. My first set of questions for the debate include the following:
@@ -30,4 +30,4 @@ This is some of my first experience with GitHub and with working on a coding tea
 
 I also have political leanings. I'll try not to let that interfere with my analysis.
 
-Thanks for your interest! Please say hello!
+Thanks for your interest! I'm Trevor -- say hello!
