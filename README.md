@@ -3,6 +3,9 @@
 
 Examining the language used in the 2016 presidential debates through text analysis and visualization
 
+# status
+Once you clone the repository, run word_count.py from the command line. A graph should pop-up (without labels or colors). Output includes a few calculated values
+
 # aims
 The primary aim of this mini-project is to create a scalable set of analytical methods to quickly visualize differences in candidates' language. It is likely that we will have varying degrees of experience with coding and working in teams. Due to my inexperience, this will be undertaken primarily as a learning process; any outcome beyond exposure to this kind of work will be an added bonus. Attainable results could entail a shareable infographic -- more ambitious estimates might look to make election predictions.
 
